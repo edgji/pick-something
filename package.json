@@ -1,0 +1,12 @@
+{
+  "name": "pick-something",
+  "version": "0.0.1",
+  "description": "random custom list picker",
+  "main": "lib/index.js",
+  "dependencies": {
+    "commander": "^2.4.0"
+  },
+  "devDependencies": {},
+  "author": "Jose Eduardo Garcia-Jimenez",
+  "license": "ISC"
+}
