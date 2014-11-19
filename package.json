@@ -3,8 +3,17 @@
   "version": "0.0.1",
   "description": "random custom list picker",
   "main": "lib/index.js",
+  "bin": {
+    "pick-something": "bin/pick-something.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edgji/pick-something"
+  },
   "dependencies": {
-    "commander": "^2.4.0"
+    "bigspinner": "^3.0.0",
+    "commander": "^2.4.0",
+    "shuffle": "^0.2.1"
   },
   "devDependencies": {},
   "author": "Jose Eduardo Garcia-Jimenez",
